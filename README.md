@@ -1,3 +1,3 @@
-# Data-analysis
-Data analysis projects with python libries
+# Data analysis
+Data analysis projects with Python libraries
 
